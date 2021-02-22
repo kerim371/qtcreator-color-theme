@@ -1,7 +1,7 @@
 {
     "name": "qtcreator-color-theme",
     "displayName": "QtCreator's default color theme",
-    "description": "Color theme that is similar to QtCreator themes but has more bugs indeed 😃",
+    "description": "A theme similar to QtCreator's default theme but has more bugs indeed 😃",
     "publisher": "kerimkhemraev",
     "author": {
         "name": "Kerim Khemraev"
