@@ -1,0 +1,21 @@
+{
+    "name": "qtcreator-color-theme",
+    "displayName": "QtCreator's default color theme",
+    "description": "Color theme that are similar to QtCreator themes but has more bugs :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "QtCreator default",
+                "uiTheme": "vs",
+                "path": "./themes/QtCreator default-color-theme.json"
+            }
+        ]
+    }
+}
