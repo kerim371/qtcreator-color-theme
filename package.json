@@ -2,12 +2,31 @@
     "name": "qtcreator-color-theme",
     "displayName": "QtCreator's default color theme",
     "description": "Color theme that are similar to QtCreator themes but has more bugs :)",
+    "publisher": "kerimkhemraev",
+    "author": {
+        "name": "Kerim Khemraev"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kerim371/qtcreator-color-theme"
+    },
+    "galleryBanner": {
+        "color": "#00801f",
+        "theme": "light"
+    },
+    "icon": "images/qt-theme-250x250-logo.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Qt theme",
+        "QtCreator theme",
+        "Light theme",
+        "VS code"
     ],
     "contributes": {
         "themes": [
