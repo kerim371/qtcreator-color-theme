@@ -14,4 +14,4 @@ where can simply click "Install"
 5. Select the Manage Cog (bottom left) > Color Theme ＞ QtCreator's default color theme
 
 ## Note
-In some cases this theme incorrectly colors the text. 
+In some cases this theme incorrectly colors the text
