@@ -1,7 +1,7 @@
 {
     "name": "qtcreator-color-theme",
     "displayName": "QtCreator's default color theme",
-    "description": "Color theme that is similar to QtCreator themes but has more bugs :)",
+    "description": "Color theme that is similar to QtCreator themes but has more bugs indeed 😃",
     "publisher": "kerimkhemraev",
     "author": {
         "name": "Kerim Khemraev"
@@ -24,9 +24,12 @@
     ],
     "keywords": [
         "Qt theme",
+        "Qt color",
+        "Qt syntax highlight",
         "QtCreator theme",
-        "Light theme",
-        "VS code"
+        "QtCreator color",
+        "QtCreator syntax highlight",
+        "Light theme"
     ],
     "contributes": {
         "themes": [
